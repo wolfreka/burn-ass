@@ -36,7 +36,7 @@ project-root/
 ## Windows（PowerShell）
 
 ### 准备
-
+- 下载burn-ass-toolkit.zip包并解压。
 - 确保 `ffmpeg\ffmpeg.exe` 与 `ffmpeg\ffprobe.exe` 位于脚本同级的 `ffmpeg\` 目录中（仓库已自带）。
 - 建议在 **PowerShell 7+** 下执行（Windows PowerShell 5 也可）。
 
